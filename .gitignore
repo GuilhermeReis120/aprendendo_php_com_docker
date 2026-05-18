@@ -1,0 +1,12 @@
+# Dados do MySQL (não versionar)
+mysql/data/
+
+# Dependências do Composer
+www/vendor/
+
+# Arquivos de ambiente
+.env
+
+# OS
+.DS_Store
+Thumbs.db
