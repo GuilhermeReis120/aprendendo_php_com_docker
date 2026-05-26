@@ -52,7 +52,6 @@ try {
         .card h2 { font-size: 1rem; text-transform: uppercase; letter-spacing: 1px; color: #888; margin-bottom: 0.8rem; }
         .status { font-size: 1.1rem; font-weight: 600; }
         .info-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
-        .info-item { }
         .info-label { font-size: 0.8rem; color: #777; }
         .info-value { font-size: 1rem; font-weight: 500; margin-top: 2px; }
         .link-btn {
@@ -120,7 +119,7 @@ try {
         <p style="margin-bottom: 1rem">
             <a class="link-btn" href="http://localhost:8081" target="_blank">📊 Abrir phpMyAdmin</a>
             <a class="link-btn" href="phpinfo.php">ℹ️ PHP Info</a>
-            <a class="link-btn" href="/exemplos/crud.php" target="_blank">📒CRUD</a>
+            <!-- class="link-btn" href="/exemplos/crud.php" target="_blank">📒CRUD</> -->
             <a class="link-btn" href="1_intro/index.php">Introdução</a>
         </p>
         <p style="color: #888; font-size: 0.9rem">
