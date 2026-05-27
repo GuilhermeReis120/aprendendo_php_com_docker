@@ -27,7 +27,7 @@ switch ($operacao) {
         }
         break;
     default:
-        echo "Operação inválida!";
+        echo "Operação inválida!\n";
         exit(1);
 }
 echo "O resultado é: " . $resultado . "\n";
