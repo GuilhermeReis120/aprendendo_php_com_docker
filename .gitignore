@@ -10,4 +10,34 @@ www/vendor/
 # OS
 .DS_Store
 Thumbs.db
+
+
+#arquivos não terminados
 www/exemplos/
+www/1_intro/exercicios/exercicio_004.php
+
+# Arquivos de log
+*.log
+# Arquivos de cache
+*.cache
+# Arquivos temporários
+*.tmp
+# Arquivos de backup
+*.bak
+# Arquivos de configuração do editor
+*.sublime-project
+*.sublime-workspace
+# Arquivos de configuração do IDE
+*.vscode/
+# Arquivos de configuração do sistema operacional
+*.swp
+# Arquivos de configuração do PHPStorm
+*.iml
+# Arquivos de configuração do NetBeans
+nbproject/
+# Arquivos de configuração do Eclipse
+.project
+# Arquivos de configuração do Visual Studio
+*.suo
+# Arquivos de configuração do IntelliJ IDEA
+*.idea/
