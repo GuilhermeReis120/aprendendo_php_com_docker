@@ -551,8 +551,8 @@ try {
         <div class="row mt-4">
             <div class="col-lg-12 text-center">
                 <h4 class="mb-3">Comece a explorar</h4>
-                <a href="1_intro/index.php" class="btn btn-docker btn-custom me-2">
-                    <i class="bi bi-folder2-open"></i> Meus Projetos
+                <a href="/exemplos/crud.php" class="btn btn-docker btn-custom me-2">
+                    <i class="bi bi-folder2-open"></i> CRUD DE EXEMPLO
                 </a>
             </div>
         </div>
