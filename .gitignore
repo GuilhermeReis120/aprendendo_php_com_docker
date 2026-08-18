@@ -12,10 +12,9 @@ www/vendor/
 Thumbs.db
 
 
-#arquivos não terminados
-www/exemplos/
-www/1_intro/exercicios/exercicio_004.php
-
+# Arquivos não terminados
+www/1_intro/exercicios/exercicio_007.php
+www/1_intro/exercicios/um-commit-por-dia-todo-dia.md
 # Arquivos de log
 *.log
 # Arquivos de cache
@@ -41,3 +40,4 @@ nbproject/
 *.suo
 # Arquivos de configuração do IntelliJ IDEA
 *.idea/
+www/1_intro/exercicios/
